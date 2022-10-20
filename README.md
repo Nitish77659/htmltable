@@ -35,9 +35,9 @@
 		<th colspan="2">Computer Application</th>
 		<th>replayravibca@gmail.com</th>
 		<th>7091543135</th>
-		<!-- <th>20/02/1999</th> -->
-		<!-- <th>Delhi</th> -->
-		<!-- <th>India</th> -->
+		<th>20/02/1999</th>
+		<th>Delhi</th>
+		<th>India</th> 
 
 
 	</tr>
@@ -48,11 +48,9 @@
 		<th>A</th>
 		<th>rishibca@gmail.com</th>
 		<th>7870748585</th>
-		<!-- <th>20/02/1999</th> -->
-		<!-- <th>Delhi</th>  -->
-		<!-- <th>India</th> -->
-
-
+		 <th>20/02/1999</th> 
+		 <th>Delhi</th> 
+		 <th>India</th> 
 	</tr>
 
 
