@@ -1,7 +1,6 @@
 
 <html>
 <head>
-	<title> Table  Data of Stuents</title>
 </head>
 <body>
 <table border="1" cellpadding="8px"cellspacing="0px;" bordercolor="black"width="95"hieght="100">
