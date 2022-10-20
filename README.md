@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
 </head>
-<body>
+<body><p>
 <table border="1" cellpadding="8px"cellspacing="0px;" bordercolor="black"width="95"hieght="100">
 
 	<caption style="color: black;"><b>Details of Varius Students admitted in the </b><strong>College</strong></caption>
@@ -54,5 +54,6 @@
 
 
 </table>
+	</p>
 </body>
 </html>
